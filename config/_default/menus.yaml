@@ -1,0 +1,21 @@
+leftnav:
+- identifier: 3845b6c6-5351-22d6-5c59-4fc04085d5ce
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: f2e251a4-20f6-3423-44e1-807ac1684fca
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 20
+- identifier: 75ddc6ce-282e-ff89-d8ac-49457a76f098
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 30
+- identifier: ed0bcf94-ac8b-3e7d-6067-0cf680d45222
+  name: Exams
+  pageRef: /pages/exams
+  weight: 40
+- identifier: 18f8def3-9ffb-4b57-ac91-c4437256fd1c
+  name: Image Gallery
+  pageRef: /external-resources/image-gallery
+  weight: 50

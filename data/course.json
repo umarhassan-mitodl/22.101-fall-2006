@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Nuclear Engineering"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Nuclear Physics"
+    ]
+  ],
+  "legacy_uid": "887c6f55-04c2-1bc5-4158-831c3d375bd5",
+  "instructors": {
+    "content": [
+      "3405424c-549f-b78b-fee5-ca4120aad975"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1e0b7156-8c69-ca7e-086a-4431704af685",
+    "website": "22-101-applied-nuclear-physics-fall-2006"
+  },
+  "course_title": "Applied Nuclear Physics",
+  "course_description": "This course explores elements of nuclear physics for engineering students. It covers basic properties of the nucleus and nuclear radiations; quantum mechanical calculations of deuteron bound-state wave function and energy; n-p scattering cross section; transition probability per unit time and barrier transmission probability. It also covers binding energy and nuclear stability; interactions of charged particles, neutrons, and gamma rays with matter; radioactive decays; and energetics and general cross section behavior in nuclear reactions.\n",
+  "department_numbers": [
+    "22"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "22.101",
+  "course_image_thumbnail": {
+    "content": "ab8beae3-ba73-0b38-703b-d85eb1d9ab48",
+    "website": "22-101-applied-nuclear-physics-fall-2006"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Written Assignments",
+    "Image Gallery"
+  ],
+  "site_uid": "92799a0f-4a4c-40cc-8247-0df0195d9aa6",
+  "site_short_id": "22.101-fall-2006",
+  "site_url_path": "courses/22-101-applied-nuclear-physics-fall-2006",
+  "title": "Course Metadata"
+}
