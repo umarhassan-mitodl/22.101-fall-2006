@@ -4,6 +4,8 @@ description: This resource is about Schr?dinger Wave Equation.
 file: /courses/22-101-applied-nuclear-physics-fall-2006/ae440bab1e9454baad28e34caa2c3c71_lec02.pdf
 file_size: 180791
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

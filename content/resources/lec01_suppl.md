@@ -5,6 +5,8 @@ description: 'This resource is about Supplement to Lecture 1: Nuclear Data Compi
 file: /courses/22-101-applied-nuclear-physics-fall-2006/cc9830f02ae1aa2432226d587efc0bef_lec01_suppl.pdf
 file_size: 34060
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: 'This resource is about Gamma Interactions: Photoelectric Effect an
 file: /courses/22-101-applied-nuclear-physics-fall-2006/1b26bfd0ab991ac260533bdaf24b4240_lec20.pdf
 file_size: 425613
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

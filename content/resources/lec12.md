@@ -4,6 +4,8 @@ description: This resource is about Empirical Binding Energy Formula and Mass Pa
 file: /courses/22-101-applied-nuclear-physics-fall-2006/7b6d57f16a4497216969bbaf609846ab_lec12.pdf
 file_size: 255106
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
