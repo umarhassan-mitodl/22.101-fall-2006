@@ -5,8 +5,6 @@ description: 'This resource is about The Neutron-Proton System: Bound State of t
 file: /courses/22-101-applied-nuclear-physics-fall-2006/4e1f3290d7b1b41d293a2a3c0f09e2d6_lec06.pdf
 file_size: 83336
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains assignments for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,7 +8,7 @@ title: Assignments
 uid: 75ddc6ce-282e-ff89-d8ac-49457a76f098
 ---
 
-[Table of Nuclides](http://atom.kaeri.re.kr/)
+{{% resource_link "7420a204-45ae-4700-a386-046d478b4a0b" "Table of Nuclides" %}}
 
 Assignments
 -----------

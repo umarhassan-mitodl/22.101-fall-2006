@@ -4,8 +4,6 @@ description: This resource contains problem set 1.
 file: /courses/22-101-applied-nuclear-physics-fall-2006/d6bdef00eee1e8725e4ceb35a68ea211_ps1.pdf
 file_size: 33382
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

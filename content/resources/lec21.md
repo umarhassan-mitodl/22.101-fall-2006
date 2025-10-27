@@ -5,8 +5,6 @@ description: 'This resource is about Detection of Nuclear Radiation: Pulse Heigh
 file: /courses/22-101-applied-nuclear-physics-fall-2006/fb3ffd55107ea6aef5dbfdf99b21905d_lec21.pdf
 file_size: 181086
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

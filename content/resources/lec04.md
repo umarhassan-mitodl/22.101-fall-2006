@@ -5,8 +5,6 @@ description: This resource is about Bound States in Three Dimensions ? Orbital A
 file: /courses/22-101-applied-nuclear-physics-fall-2006/0163cd6b396dc865cbc3ecff45dd21fc_lec04.pdf
 file_size: 260547
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
